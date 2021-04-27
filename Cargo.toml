@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "engine/base",
+    "engine/metadata",
+    "engine/core"
+]
